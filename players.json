@@ -1,0 +1,75 @@
+{
+  "teams": [
+    {
+      "teamCode": "NM",
+      "teamName": "No Mercy (Ritesh)",
+      "logo": "./nm.png",
+      "points": 50000,
+      "captainEmail": "nm@example.com",
+      "players": [
+        {"id":"p1","name":"Mukund Jaiswal","basePrice":1000,"image":"https://drive.google.com/open?id=17q6Ll2MBkx7yMpV3y4dKYuTjmZoiKXVl"},
+        {"id":"p2","name":"Sagar Mehta","basePrice":1000,"image":"https://drive.google.com/open?id=136SXYisuS_ktAyo84R8KGcA6Od2YrARU"},
+        {"id":"p3","name":"Himadri Shekhar Paul","basePrice":1000,"image":"https://drive.google.com/open?id=1pWt88WYEBKagFXO8PFWpiBSEfc3KXHMr"}
+      ]
+    },
+    {
+      "teamCode": "BZ",
+      "teamName": "Ballerz (Shailesh)",
+      "logo": "./bz.png",
+      "points": 50000,
+      "captainEmail": "bz@example.com",
+      "players": [
+        {"id":"p4","name":"Akash Mukherjee","basePrice":1000,"image":"https://drive.google.com/open?id=1ccmxAU1Ilh4DF7r3jHXEBFOIxP5PFWmC"},
+        {"id":"p5","name":"Raunak Chowdhury","basePrice":1000,"image":"https://drive.google.com/open?id=1K907MN31KCC4j78Gb_05QIUqXbpRPmMI"},
+        {"id":"p6","name":"Harshit Shah","basePrice":1000,"image":"https://drive.google.com/open?id=1R--dex8koHFFvLWstZxTCVA1QDtWecco"},
+        {"id":"p7","name":"Sahil","basePrice":1000,"image":"https://drive.google.com/open?id=1w1PRBiJIhRNPsa5ml_-cWRKd2wfnuJB6"},
+        {"id":"p8","name":"Ujjwal Kumar Sah","basePrice":1000,"image":"https://drive.google.com/open?id=19nn2KS3ZR0ddFim9zXLC8AcpEH8lMt8k"},
+        {"id":"p9","name":"Aryan Singh","basePrice":1000,"image":"https://drive.google.com/open?id=1stN6DWg6oe7n-gLwvB6XQCIE0iiNiSSs"}
+      ]
+    },
+    {
+      "teamCode": "AH",
+      "teamName": "Apex Howlers (Raghav)",
+      "logo": "./ah.png",
+      "points": 50000,
+      "captainEmail": "ah@example.com",
+      "players": [
+        {"id":"p10","name":"Swastik Subhadarshi Jena","basePrice":1000,"image":"https://drive.google.com/open?id=17pj-U_hMNAeJkRBjeSzYorP-oxV0l_m-"},
+        {"id":"p11","name":"Yuvaraj Sharma","basePrice":1000,"image":"https://drive.google.com/open?id=1aOMccM7Z-z3s8gG6QZO3GDn6LtwAlvWf"},
+        {"id":"p12","name":"Shreyash Dudani","basePrice":1000,"image":"https://drive.google.com/open?id=16m5pkz3i79NtZNFDSsupsCZeaAPZ2Yde"},
+        {"id":"p13","name":"Suhit Ranjan Majumder","basePrice":1000,"image":"https://drive.google.com/open?id=1a1v-z_ze7yD9CrD-a6aX-h6uM_L-DFDx"},
+        {"id":"p14","name":"Anik Ghosh","basePrice":1000,"image":"https://drive.google.com/open?id=1BKVoMrHzwDQtwF3O6dZmnkpjgEGFSkwA"},
+        {"id":"p15","name":"Shishir Yadav","basePrice":1000,"image":"https://drive.google.com/open?id=1p6yYcgereg5mtnuHYV6KH0WTFjqDWC1h"}
+      ]
+    },
+    {
+      "teamCode": "MV",
+      "teamName": "Maverick (Harsh)",
+      "logo": "./mv.png",
+      "points": 50000,
+      "captainEmail": "mv@example.com",
+      "players": [
+        {"id":"p16","name":"Soumitra Bhattacharjee","basePrice":1000,"image":"https://drive.google.com/open?id=1fgFHMtaot6IA1pm1If3qg2T8K1YX1BQ8"},
+        {"id":"p17","name":"Peeyoush Shah","basePrice":1000,"image":"https://drive.google.com/open?id=1_FwTnrDkUj7ohdjiZ_zFeTydMRTJcTzR"},
+        {"id":"p18","name":"Saps","basePrice":1000,"image":"https://drive.google.com/open?id=1LwKbtbYr-W8cf10CBTboyDAdT6t2x7TV"},
+        {"id":"p19","name":"Sayantan Chakraborty","basePrice":1000,"image":"https://drive.google.com/open?id=1ZWNa9xIrAmBigLVS6fatFaT26SqSnVcI"},
+        {"id":"p20","name":"Niraj Jha","basePrice":1000,"image":"https://drive.google.com/open?id=1FVOEK1ALE_jWF6J1QEojbkiRowq2uoON"}
+      ]
+    },
+    {
+      "teamCode": "VC",
+      "teamName": "Velocity (Ankan)",
+      "logo": "./vc.png",
+      "points": 50000,
+      "captainEmail": "vc@example.com",
+      "players": [
+        {"id":"p21","name":"Prince Shah","basePrice":1000,"image":"https://drive.google.com/open?id=1XqsjUozWSQUhs-O_0bce7qR0soL-HoCF"},
+        {"id":"p22","name":"Ashirbad Mishra","basePrice":1000,"image":"https://drive.google.com/open?id=1vu3Mp62QtbC9qCA8XQs09k4Bo6SoJ28J"},
+        {"id":"p23","name":"Praagya Parajuli","basePrice":1000,"image":"https://drive.google.com/open?id=1RM4AjUnhHQsxLxLpjVTlBvl4uEJNS6dZ"},
+        {"id":"p24","name":"Ayan Mitra","basePrice":1000,"image":"https://drive.google.com/open?id=1eVCBu3I3rvjupBPeejK3NxHudQct9ufe"},
+        {"id":"p25","name":"Sashank Koirala","basePrice":1000,"image":"https://drive.google.com/open?id=1kEUxy9KeoudIvqbI0FRgA1VX8n1v11VD"},
+        {"id":"p26","name":"Souvik Mishra","basePrice":1000,"image":"https://drive.google.com/open?id=1o4D9KOMe59dWmUd7F7FMLaudKpQpMs-X"}
+      ]
+    }
+  ]
+}
