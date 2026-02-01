@@ -7,11 +7,12 @@
       "points": 50000,
       "captainEmail": "nm@example.com",
       "players": [
-        {"id":"p1","name":"Mukund Jaiswal","basePrice":1000,"image":"https://drive.google.com/open?id=17q6Ll2MBkx7yMpV3y4dKYuTjmZoiKXVl"},
-        {"id":"p2","name":"Sagar Mehta","basePrice":1000,"image":"https://drive.google.com/open?id=136SXYisuS_ktAyo84R8KGcA6Od2YrARU"},
-        {"id":"p3","name":"Himadri Shekhar Paul","basePrice":1000,"image":"https://drive.google.com/open?id=1pWt88WYEBKagFXO8PFWpiBSEfc3KXHMr"}
+        {"id":"p2","name":"Mukund Jaiswal","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769955637/IMG_3831_-_Mukund_Jaiswal_wtkavu.jpg"},
+        {"id":"p3","name":"Sagar Mehta","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956587/1753554392844_-_Sagar_Kumar_Mehta_lqcam2.jpg"},
+        {"id":"p4","name":"Himadri Shekhar Paul","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956583/PXL_20251220_034728663_-_HIMADRI_SHEKHAR_PAUL_gb2am8.jpg"},
       ]
     },
+
     {
       "teamCode": "BZ",
       "teamName": "Ballerz (Shailesh)",
@@ -19,14 +20,15 @@
       "points": 50000,
       "captainEmail": "bz@example.com",
       "players": [
-        {"id":"p4","name":"Akash Mukherjee","basePrice":1000,"image":"https://drive.google.com/open?id=1ccmxAU1Ilh4DF7r3jHXEBFOIxP5PFWmC"},
-        {"id":"p5","name":"Raunak Chowdhury","basePrice":1000,"image":"https://drive.google.com/open?id=1K907MN31KCC4j78Gb_05QIUqXbpRPmMI"},
-        {"id":"p6","name":"Harshit Shah","basePrice":1000,"image":"https://drive.google.com/open?id=1R--dex8koHFFvLWstZxTCVA1QDtWecco"},
-        {"id":"p7","name":"Sahil","basePrice":1000,"image":"https://drive.google.com/open?id=1w1PRBiJIhRNPsa5ml_-cWRKd2wfnuJB6"},
-        {"id":"p8","name":"Ujjwal Kumar Sah","basePrice":1000,"image":"https://drive.google.com/open?id=19nn2KS3ZR0ddFim9zXLC8AcpEH8lMt8k"},
-        {"id":"p9","name":"Aryan Singh","basePrice":1000,"image":"https://drive.google.com/open?id=1stN6DWg6oe7n-gLwvB6XQCIE0iiNiSSs"}
+        {"id":"p6","name":"Akash Mukherjee","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956579/B612_20250522_183955_536_-_Akash_Mukherjee_r0jatg.jpg"},
+        {"id":"p7","name":"Raunak Chowdhury","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956578/IMG-20241202-WA0009_Original_-_Raunak_Chowdhury_xzcw0p.jpg"},
+        {"id":"p8","name":"Harshit Shah","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956576/inbound3930235043688670670_-_HARSHIT_SHAH_lmmdmu.jpg"},
+        {"id":"p9","name":"Sahil","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956574/IMG_0344_-_Sahil_Gupta_ibenvb.jpg"},
+        {"id":"p10","name":"Ujjwal Kumar Sah","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956572/IMG_20260131_093117_-_Ujjwal_Sah_pist9r.jpg"},
+        {"id":"p11","name":"Aryan Singh","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956570/IMG-20260127-WA0176_-_Aryan_Singh_lziai9.jpg"},
       ]
     },
+
     {
       "teamCode": "AH",
       "teamName": "Apex Howlers (Raghav)",
@@ -34,14 +36,15 @@
       "points": 50000,
       "captainEmail": "ah@example.com",
       "players": [
-        {"id":"p10","name":"Swastik Subhadarshi Jena","basePrice":1000,"image":"https://drive.google.com/open?id=17pj-U_hMNAeJkRBjeSzYorP-oxV0l_m-"},
-        {"id":"p11","name":"Yuvaraj Sharma","basePrice":1000,"image":"https://drive.google.com/open?id=1aOMccM7Z-z3s8gG6QZO3GDn6LtwAlvWf"},
-        {"id":"p12","name":"Shreyash Dudani","basePrice":1000,"image":"https://drive.google.com/open?id=16m5pkz3i79NtZNFDSsupsCZeaAPZ2Yde"},
-        {"id":"p13","name":"Suhit Ranjan Majumder","basePrice":1000,"image":"https://drive.google.com/open?id=1a1v-z_ze7yD9CrD-a6aX-h6uM_L-DFDx"},
-        {"id":"p14","name":"Anik Ghosh","basePrice":1000,"image":"https://drive.google.com/open?id=1BKVoMrHzwDQtwF3O6dZmnkpjgEGFSkwA"},
-        {"id":"p15","name":"Shishir Yadav","basePrice":1000,"image":"https://drive.google.com/open?id=1p6yYcgereg5mtnuHYV6KH0WTFjqDWC1h"}
+        {"id":"p13","name":"Swastik Subhadarshi Jena","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956568/IMG-20250603-WA0017_-_Swastik_Subhadarshi_Jena_vvgixc.jpg"},
+        {"id":"p14","name":"Yuvaraj Sharma","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956567/1769840040871_-_Yuvaraj_Sharma_netuja.jpg"},
+        {"id":"p15","name":"Shreyash Dudani","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956565/IMG_20251226_111649_-_Shreyash_Dudani_exljam.jpg"},
+        {"id":"p16","name":"Suhit Ranjan Majumder","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956564/IMG_20260131_115552_-_Suhit_Majumder_bhz0wb.jpg"},
+        {"id":"p17","name":"Anik Ghosh","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956561/IMG-20250917-WA0022_-_ANIK_GHOSH_xpnfwy.jpg"},
+        {"id":"p18","name":"Shishir Yadav","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956560/IMG-20251105-WA0085_-_SHISHIR_YADAV_kweujk.jpg"}
       ]
     },
+
     {
       "teamCode": "MV",
       "teamName": "Maverick (Harsh)",
@@ -49,13 +52,14 @@
       "points": 50000,
       "captainEmail": "mv@example.com",
       "players": [
-        {"id":"p16","name":"Soumitra Bhattacharjee","basePrice":1000,"image":"https://drive.google.com/open?id=1fgFHMtaot6IA1pm1If3qg2T8K1YX1BQ8"},
-        {"id":"p17","name":"Peeyoush Shah","basePrice":1000,"image":"https://drive.google.com/open?id=1_FwTnrDkUj7ohdjiZ_zFeTydMRTJcTzR"},
-        {"id":"p18","name":"Saps","basePrice":1000,"image":"https://drive.google.com/open?id=1LwKbtbYr-W8cf10CBTboyDAdT6t2x7TV"},
-        {"id":"p19","name":"Sayantan Chakraborty","basePrice":1000,"image":"https://drive.google.com/open?id=1ZWNa9xIrAmBigLVS6fatFaT26SqSnVcI"},
-        {"id":"p20","name":"Niraj Jha","basePrice":1000,"image":"https://drive.google.com/open?id=1FVOEK1ALE_jWF6J1QEojbkiRowq2uoON"}
+        {"id":"p19","name":"Soumitra Bhattacharjee","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956559/IMG_7826_-_Soumitra_Bhattacharjee_ct0ejg.jpg"},
+        {"id":"p20","name":"Peeyoush Shah","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956540/IMG_6090_-_Mohin_Kumar_Gupta_mqa8md.jpg"},
+        {"id":"p21","name":"Saps","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956554/IMG-20260131-WA0008_-_saps_cljbb5.jpg"},
+        {"id":"p22","name":"Sayantan Chakraborty","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956553/IMG_20240910_205823_194_-_Sayantan_Chakraborty_axhufw.webp"},
+        {"id":"p23","name":"Niraj Jha","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956551/IMG-20251226-WA0009_-_NIRAJ_THE_BEAST_vxe22v.jpg"}
       ]
     },
+
     {
       "teamCode": "VC",
       "teamName": "Velocity (Ankan)",
@@ -63,12 +67,15 @@
       "points": 50000,
       "captainEmail": "vc@example.com",
       "players": [
-        {"id":"p21","name":"Prince Shah","basePrice":1000,"image":"https://drive.google.com/open?id=1XqsjUozWSQUhs-O_0bce7qR0soL-HoCF"},
-        {"id":"p22","name":"Ashirbad Mishra","basePrice":1000,"image":"https://drive.google.com/open?id=1vu3Mp62QtbC9qCA8XQs09k4Bo6SoJ28J"},
-        {"id":"p23","name":"Praagya Parajuli","basePrice":1000,"image":"https://drive.google.com/open?id=1RM4AjUnhHQsxLxLpjVTlBvl4uEJNS6dZ"},
-        {"id":"p24","name":"Ayan Mitra","basePrice":1000,"image":"https://drive.google.com/open?id=1eVCBu3I3rvjupBPeejK3NxHudQct9ufe"},
-        {"id":"p25","name":"Sashank Koirala","basePrice":1000,"image":"https://drive.google.com/open?id=1kEUxy9KeoudIvqbI0FRgA1VX8n1v11VD"},
-        {"id":"p26","name":"Souvik Mishra","basePrice":1000,"image":"https://drive.google.com/open?id=1o4D9KOMe59dWmUd7F7FMLaudKpQpMs-X"}
+        {"id":"p24","name":"Prince Shah","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956556/IMG_8314_-_Raza_Shah_zn69xp.jpg"},
+        {"id":"p25","name":"Ashirbad Mishra","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956548/Screenshot_20260102-095329_-_Ashirbad_Mishra_otbo1m.png"},
+        {"id":"p26","name":"Praagya Parajuli","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956547/IMG-20240101-WA0003_-_praagya_parajuli_kqxvwc.jpg"},
+        {"id":"p27","name":"Ayan Mitra","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956546/IMG-20251207-WA0067_-_Ayan_Mitra_ozynrf.jpg"},
+        {"id":"p28","name":"Sashank Koirala","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956543/IMG_2514_-_SASHANK_KOIRALA_xrhdsn.jpg"},
+        {"id":"p29","name":"Souvik Mishra","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956542/IMG-20260111-WA0023_-_SOUVIK_MISHRA_cntrq6.jpg"},
+        {"id":"p30","name":"Debadatta Mohanty","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956541/IMG_20260127_195002_550_-_Debadatta_Mohanty_lfuyqw.webp"},
+        {"id":"p31","name":"Mohin Gupta","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956540/IMG_6090_-_Mohin_Kumar_Gupta_mqa8md.jpg"},
+        {"id":"p32","name":"Aaditya Thakur","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956538/20260102_164658_-_488_AADITYA_THAKUR_pxmm0t.jpg"}
       ]
     }
   ]
