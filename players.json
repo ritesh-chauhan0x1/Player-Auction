@@ -54,7 +54,7 @@
       "players": [
         {"id":"p16","name":"Soumitra Bhattacharjee","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956559/IMG_7826_-_Soumitra_Bhattacharjee_ct0ejg.jpg"},
         {"id":"p17","name":"Peeyoush Shah","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956556/IMG_8314_-_Raza_Shah_zn69xp.jpg"},
-        {"id":"p18","name":"Saps","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956554/IMG-20260131-WA0008_-_saps_cljbb5.jpg"},
+        {"id":"p18","name":"Saps","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956554/IMG-20260131-WA0008_-_4368_RITESH_CHAUHAN_cljbb5.jpg"},
         {"id":"p19","name":"Sayantan Chakraborty","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956553/IMG_20240910_205823_194_-_Sayantan_Chakraborty_axhufw.webp"},
         {"id":"p20","name":"Niraj Jha","basePrice":1000,"image":"https://res.cloudinary.com/dj85g5tsx/image/upload/v1769956551/IMG-20251226-WA0009_-_NIRAJ_THE_BEAST_vxe22v.jpg"}
       ]
@@ -80,3 +80,4 @@
     }
   ]
 }
+
